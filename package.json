@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "tc": "tsc",
-    "test": "vitest"
+    "test": "vitest",
+    "coverage": "vitest --coverage"
   },
   "devDependencies": {
     "@types/node": "^20.14.7",
